@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mf9ufzty6-java-springboot-gitops-repository
+spec:
+  url: https://github.com/testrhtaporg/mf9ufzty6-java-springboot-gitops
